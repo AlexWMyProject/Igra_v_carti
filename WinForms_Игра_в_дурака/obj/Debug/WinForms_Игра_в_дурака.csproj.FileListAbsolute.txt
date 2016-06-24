@@ -1,0 +1,10 @@
+D:\МОЯ РАБОТА\ПП-2209 (ИТ-2212)\27.02.2015 Мои_самостоят._проекты C#_WinForms_ADONET\WinForms_Игра_в_дурака\WinForms_Игра_в_дурака\bin\Debug\WinForms_Игра_в_дурака.exe.config
+D:\МОЯ РАБОТА\ПП-2209 (ИТ-2212)\27.02.2015 Мои_самостоят._проекты C#_WinForms_ADONET\WinForms_Игра_в_дурака\WinForms_Игра_в_дурака\bin\Debug\WinForms_Игра_в_дурака.exe
+D:\МОЯ РАБОТА\ПП-2209 (ИТ-2212)\27.02.2015 Мои_самостоят._проекты C#_WinForms_ADONET\WinForms_Игра_в_дурака\WinForms_Игра_в_дурака\bin\Debug\WinForms_Игра_в_дурака.pdb
+D:\МОЯ РАБОТА\ПП-2209 (ИТ-2212)\27.02.2015 Мои_самостоят._проекты C#_WinForms_ADONET\WinForms_Игра_в_дурака\WinForms_Игра_в_дурака\obj\Debug\WinForms_Игра_в_дурака.Form1.resources
+D:\МОЯ РАБОТА\ПП-2209 (ИТ-2212)\27.02.2015 Мои_самостоят._проекты C#_WinForms_ADONET\WinForms_Игра_в_дурака\WinForms_Игра_в_дурака\obj\Debug\WinForms_Игра_в_дурака.Properties.Resources.resources
+D:\МОЯ РАБОТА\ПП-2209 (ИТ-2212)\27.02.2015 Мои_самостоят._проекты C#_WinForms_ADONET\WinForms_Игра_в_дурака\WinForms_Игра_в_дурака\obj\Debug\WinForms_Игра_в_дурака.csproj.GenerateResource.Cache
+D:\МОЯ РАБОТА\ПП-2209 (ИТ-2212)\27.02.2015 Мои_самостоят._проекты C#_WinForms_ADONET\WinForms_Игра_в_дурака\WinForms_Игра_в_дурака\obj\Debug\WinForms_Игра_в_дурака.exe
+D:\МОЯ РАБОТА\ПП-2209 (ИТ-2212)\27.02.2015 Мои_самостоят._проекты C#_WinForms_ADONET\WinForms_Игра_в_дурака\WinForms_Игра_в_дурака\obj\Debug\WinForms_Игра_в_дурака.pdb
+D:\МОЯ РАБОТА\ПП-2209 (ИТ-2212)\27.02.2015 Мои_самостоят._проекты C#_WinForms_ADONET\WinForms_Игра_в_дурака\WinForms_Игра_в_дурака\obj\Debug\WinForms_Игра_в_дурака.csproj.ResolveComReference.cache
+D:\МОЯ РАБОТА\ПП-2209 (ИТ-2212)\27.02.2015 Мои_самостоят._проекты C#_WinForms_ADONET\WinForms_Игра_в_дурака\WinForms_Игра_в_дурака\obj\Debug\WinForms_Игра_в_дурака.csprojResolveAssemblyReference.cache
